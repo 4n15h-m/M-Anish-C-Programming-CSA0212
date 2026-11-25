@@ -1,0 +1,3 @@
+101,1,09:00,LAB,Experiment Started
+102,2,10:00,LIB,Book Issued
+103,3,11:00,ENTRY,Student Entered
